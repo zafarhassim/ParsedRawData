@@ -1,0 +1,486 @@
+Title: Roadmap, Mainnet, Poker ?, ups: 8, downs: 0, Have we visited?: False
+------------------------------------------------------------
+Parent ID: t5vxsc
+Comment ID: hzd6qtn
+A rebranding is happening (have you seen the last tweet with the visual guidelines?) - I guess that after we’ll see the full force of the developments release. Also, Texas HODL’em is ready to be playe
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.026, 'neu': 0.886, 'pos': 0.089, 'compound': 0.549}
+sentence was rated as  2.6 % Negative
+sentence was rated as  88.6 % Neutral
+sentence was rated as  8.9 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.99065101146698}]
+------------------------------------------------------------
+Parent ID: t5vxsc
+Comment ID: hz9jb3g
+Hey there, thank you for your question!
+
+As we previously mentioned, we're changing the roadmap model we adopt and the team is working on finalizing the article on that. One reason for redesigning roa
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.037, 'neu': 0.875, 'pos': 0.088, 'compound': 0.7467}
+sentence was rated as  3.6999999999999997 % Negative
+sentence was rated as  87.5 % Neutral
+sentence was rated as  8.799999999999999 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9537230134010315}]
+------------------------------------------------------------
+Parent ID: t5vxsc
+Comment ID: hz7kqgu
+Cartesi connnnnnneeeeeeeect!
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9862061142921448}]
+------------------------------------------------------------
+Parent ID: t5vxsc
+Comment ID: hz7ectw
+[deleted]
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9992691874504089}]
+------------------------------------------------------------
+Parent ID: hzd6qtn
+Comment ID: hzg9ovo
+I bet $0.45 they will either rename it Linu.X or DesCartesiEscuantegosDelLinux.
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9956642985343933}]
+------------------------------------------------------------
+Parent ID: hz9jb3g
+Comment ID: hzal2s2
+The article doesn’t give any statement about where you stand for the next releases. « Soon » is a bad communication word. It seems we are getting a delay for the mainnet but you don’t want to announce
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.087, 'neu': 0.802, 'pos': 0.111, 'compound': 0.2732}
+sentence was rated as  8.7 % Negative
+sentence was rated as  80.2 % Neutral
+sentence was rated as  11.1 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9995443224906921}]
+------------------------------------------------------------
+Parent ID: hz7ectw
+Comment ID: hz7jq5g
+Your answer doesn’t give any clue about the current state of the projet. Please provide if you have any information that may answer if we should have roadmap mainnet poker ? The team let the community
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.053, 'neu': 0.895, 'pos': 0.051, 'compound': -0.0183}
+sentence was rated as  5.3 % Negative
+sentence was rated as  89.5 % Neutral
+sentence was rated as  5.1 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9997484087944031}]
+------------------------------------------------------------
+Parent ID: hz7jq5g
+Comment ID: hz7qmm5
+[deleted]
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9992691874504089}]
+------------------------------------------------------------
+Parent ID: hz7qmm5
+Comment ID: hz85z8j
+So 2/3 of Q1 is a total fog ? Like which Milestone has been achieved since December ? I would like to know where they stand, what’s left to do.
+And you don’t have any information about why the roadmap
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.7007}
+sentence was rated as  0.0 % Negative
+sentence was rated as  90.5 % Neutral
+sentence was rated as  9.5 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9991191029548645}]
+------------------------------------------------------------
+Parent ID: hz85z8j
+Comment ID: hzb5257
+There was an article that highlighted a set of milestones to be achieved before new roadmap is released. Although, one of the team member already hinted that the roadmap is coming this week on the Dis
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.045, 'neu': 0.854, 'pos': 0.101, 'compound': 0.3182}
+sentence was rated as  4.5 % Negative
+sentence was rated as  85.39999999999999 % Neutral
+sentence was rated as  10.100000000000001 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9961429238319397}]
+Title: Have you ever accepted a salary in CTSI?, ups: 7, downs: 0, Have we visited?: False
+------------------------------------------------------------
+Parent ID: t5r16l
+Comment ID: hz6g55g
+Holy fuck that would be a terrible idea
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.765}
+sentence was rated as  52.400000000000006 % Negative
+sentence was rated as  47.599999999999994 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Negative
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9990832805633545}]
+------------------------------------------------------------
+Parent ID: t5r16l
+Comment ID: hz6jszu
+That doesn't sound as a smart idea :D
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.471, 'pos': 0.529, 'compound': 0.7739}
+sentence was rated as  0.0 % Negative
+sentence was rated as  47.099999999999994 % Neutral
+sentence was rated as  52.900000000000006 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9998005032539368}]
+------------------------------------------------------------
+Parent ID: t5r16l
+Comment ID: hz6nrg4
+Hahaha! Cartesi connneeeeeect!
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6351}
+sentence was rated as  0.0 % Negative
+sentence was rated as  32.300000000000004 % Neutral
+sentence was rated as  67.7 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9804596900939941}]
+------------------------------------------------------------
+Parent ID: t5r16l
+Comment ID: hzb5yhn
+Payments with CTSI gets easier with Nowpayments for sure. I already get paid in crypto, imagine how wealthy I’ll be in the next few months if I start getting some of pay in CTSI. Absolutely Massive!
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.034, 'neu': 0.775, 'pos': 0.191, 'compound': 0.7574}
+sentence was rated as  3.4000000000000004 % Negative
+sentence was rated as  77.5 % Neutral
+sentence was rated as  19.1 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.8107504844665527}]
+------------------------------------------------------------
+Parent ID: t5r16l
+Comment ID: hzc1os3
+One of the reasons I love CTSI is the fact that it has multiple functionalities across the Crypto space. This integration with Nowpayment is a good one to have. Cartesi is inevitable!
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.8122}
+sentence was rated as  0.0 % Negative
+sentence was rated as  80.2 % Neutral
+sentence was rated as  19.8 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9635154008865356}]
+------------------------------------------------------------
+Parent ID: hz6jszu
+Comment ID: hz738it
+Why not? I get paid in crypto and it’s your decision what you do after - sell for fiat, stake, sell for stablecoins, use the collateral to take a loan, hold etc… CTSI is pretty beaten up right now pri
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.042, 'neu': 0.817, 'pos': 0.141, 'compound': 0.7574}
+sentence was rated as  4.2 % Negative
+sentence was rated as  81.69999999999999 % Neutral
+sentence was rated as  14.099999999999998 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9994242191314697}]
+Title: Top 5 Altcoins for Staking, ups: 14, downs: 0, Have we visited?: False
+------------------------------------------------------------
+Parent ID: t55868
+Comment ID: hz2nwa9
+Good to see Cartesi in the article but just as an FYI, I don’t think the author understands that Cartesi’s oracle is for computations and that Cartesi is utilizing Chainlink for pricing information fo
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.019, 'neu': 0.876, 'pos': 0.105, 'compound': 0.7872}
+sentence was rated as  1.9 % Negative
+sentence was rated as  87.6 % Neutral
+sentence was rated as  10.5 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.980607271194458}]
+------------------------------------------------------------
+Parent ID: t55868
+Comment ID: hz3lewm
+Cartesi is a lovely pick. Nice little bit of recognition in the article. Who would turn down such APYs on a project as good as Cartesi. I am going to be staking my bag for quite some time. Cartesi has
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.8591}
+sentence was rated as  0.0 % Negative
+sentence was rated as  81.89999999999999 % Neutral
+sentence was rated as  18.099999999999998 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9993257522583008}]
+------------------------------------------------------------
+Parent ID: hz2nwa9
+Comment ID: hz3v4fp
+Yeah, not competitors at all.. I mean, Cartesi partnered with ChainLink for offering their oracle services to the node owners and staking pools. I think Cartesi does enough in the L2 space for high th
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.6908}
+sentence was rated as  0.0 % Negative
+sentence was rated as  90.3 % Neutral
+sentence was rated as  9.700000000000001 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9986540079116821}]
+------------------------------------------------------------
+Parent ID: hz3lewm
+Comment ID: hz6ghqf
+Where are you staking Cartesi??
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9995365142822266}]
+------------------------------------------------------------
+Parent ID: hz6ghqf
+Comment ID: hz741ww
+Binance or delegated staking pools on [here](https://explorer.cartesi.io/). Note than operating on-chain, you will inquire into ETH gas fees, so you might prefer Binance considering this.
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9906545281410217}]
+Title: We're welcoming 10 new members to The Blockchain OS, ups: 14, downs: 0, Have we visited?: False
+------------------------------------------------------------
+Parent ID: t4wvto
+Comment ID: hz2l7yq
+Cartesi is constantly expanding its team - the best indication that the project is growing and the developments will pile up soon! Welcome to the new team members and LFG!
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.74, 'pos': 0.26, 'compound': 0.8585}
+sentence was rated as  0.0 % Negative
+sentence was rated as  74.0 % Neutral
+sentence was rated as  26.0 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.998062789440155}]
+------------------------------------------------------------
+Parent ID: t4wvto
+Comment ID: hz2q8oz
+Cartesi is building a very talented team! 🙌
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.673, 'pos': 0.327, 'compound': 0.5974}
+sentence was rated as  0.0 % Negative
+sentence was rated as  67.30000000000001 % Neutral
+sentence was rated as  32.7 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.999665379524231}]
+------------------------------------------------------------
+Parent ID: t4wvto
+Comment ID: hz3my53
+Continuous growth and expansion of the team shows alot of dedication from the team to deliver the very best to devs. We are so early at 200m marketcap if you understand how revolutionary the tech is. 
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.796}
+sentence was rated as  0.0 % Negative
+sentence was rated as  84.6 % Neutral
+sentence was rated as  15.4 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9996631145477295}]
+------------------------------------------------------------
+Parent ID: t4wvto
+Comment ID: hz5uszz
+Glad to see the Cartesi team expanding deliberately to further equip the project with more talented individuals. Everything gets better with this project, I’m loving it!
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.617, 'pos': 0.383, 'compound': 0.9285}
+sentence was rated as  0.0 % Negative
+sentence was rated as  61.7 % Neutral
+sentence was rated as  38.3 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9997987151145935}]
+Title: Decentraland has their casino ip and running. Anyone compare to the beta CTSI poker game. Apparently poker is most played at that casino., ups: 4, downs: 0, Have we visited?: False
+------------------------------------------------------------
+Parent ID: t4x1gs
+Comment ID: hz2hha6
+I didn’t find any reference saying that the game engine is decentralized. Who is the dealer?
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9989932179450989}]
+------------------------------------------------------------
+Parent ID: t4x1gs
+Comment ID: hz18knd
+[deleted]
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9992691874504089}]
+------------------------------------------------------------
+Parent ID: hz2hha6
+Comment ID: hz2vjoq
+That was my exact thought … is it decentralized and where is the open source code? Same question was brought up about Polker on Discord…
+
+I’ll leave a link for others but the tl;dr: “Adding the poker 
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.124, 'neu': 0.838, 'pos': 0.038, 'compound': -0.7163}
+sentence was rated as  12.4 % Negative
+sentence was rated as  83.8 % Neutral
+sentence was rated as  3.8 % Positive
+Sentence Overall Rated As Negative
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9980816841125488}]
+------------------------------------------------------------
+Parent ID: hz2hha6
+Comment ID: hz2ngiv
+Its in today’s Bloomberg digital article. It won’t let me share the link. Try googling it
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.296}
+sentence was rated as  0.0 % Negative
+sentence was rated as  87.2 % Neutral
+sentence was rated as  12.8 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9954110980033875}]
+------------------------------------------------------------
+Parent ID: hz18knd
+Comment ID: hz1a4s0
+I agree with regards to poker. Only pointed out the comparison because Decentraland was featured in Bloomberg. CTSI perhaps is lying low because its in beta testing
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.172, 'neu': 0.75, 'pos': 0.078, 'compound': -0.4588}
+sentence was rated as  17.2 % Negative
+sentence was rated as  75.0 % Neutral
+sentence was rated as  7.8 % Positive
+Sentence Overall Rated As Negative
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9979922771453857}]
+------------------------------------------------------------
+Parent ID: hz2vjoq
+Comment ID: hz65t42
+Thank you. Appreciate the info and your incite.
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.536, 'pos': 0.464, 'compound': 0.6369}
+sentence was rated as  0.0 % Negative
+sentence was rated as  53.6 % Neutral
+sentence was rated as  46.400000000000006 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9998488426208496}]
+------------------------------------------------------------
+Parent ID: hz1a4s0
+Comment ID: hz1fyjx
+[deleted]
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+sentence was rated as  0.0 % Negative
+sentence was rated as  100.0 % Neutral
+sentence was rated as  0.0 % Positive
+Sentence Overall Rated As Neutral
+None
+************************************************************
+results from hugging face: 
+[{'label': 'NEGATIVE', 'score': 0.9992691874504089}]
+------------------------------------------------------------
+Parent ID: hz1fyjx
+Comment ID: hz1jld0
+Agreed. CTSI has real potential to be a bigger protocol by market cap the next run up
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}
+sentence was rated as  0.0 % Negative
+sentence was rated as  88.4 % Neutral
+sentence was rated as  11.600000000000001 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9467582702636719}]
+------------------------------------------------------------
+Parent ID: hz1fyjx
+Comment ID: hz5sv32
+I totally agree with being thorough. It’s better to have a fully developed and functional game or product before launching and blowing it out. Good thing is that the Cartesi team is very solid. With m
+Sentiment results from Vader: 
+Overall sentiment dictionary is :  {'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.9298}
+sentence was rated as  0.0 % Negative
+sentence was rated as  75.3 % Neutral
+sentence was rated as  24.7 % Positive
+Sentence Overall Rated As Positive
+None
+************************************************************
+results from hugging face: 
+[{'label': 'POSITIVE', 'score': 0.9975019097328186}]
